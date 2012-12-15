@@ -1,0 +1,12 @@
+# Extension bundle initialization
+website.ext.task.data(:create_website)[:templates]['1024px'] = absolute_path('data/1024px')
+website.ext.task.data(:create_website)[:templates]['andreas00'] = absolute_path('data/andreas00')
+website.ext.task.data(:create_website)[:templates]['andreas01'] = absolute_path('data/andreas01')
+website.ext.task.data(:create_website)[:templates]['andreas03'] = absolute_path('data/andreas03')
+website.ext.task.data(:create_website)[:templates]['andreas04'] = absolute_path('data/andreas04')
+website.ext.task.data(:create_website)[:templates]['andreas05'] = absolute_path('data/andreas05')
+website.ext.task.data(:create_website)[:templates]['andreas06'] = absolute_path('data/andreas06')
+website.ext.task.data(:create_website)[:templates]['andreas07'] = absolute_path('data/andreas07')
+website.ext.task.data(:create_website)[:templates]['andreas08'] = absolute_path('data/andreas08')
+website.ext.task.data(:create_website)[:templates]['andreas09'] = absolute_path('data/andreas09')
+website.ext.task.data(:create_website)[:templates]['simple'] = absolute_path('data/simple')

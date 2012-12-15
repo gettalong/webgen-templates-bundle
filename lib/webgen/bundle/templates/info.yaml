@@ -1,0 +1,9 @@
+author: Thomas Leitner <t_leitner@gmx.at>
+summary: webgen extension bundle providing 10+ website templates
+description: |
+  This webgen extension bundle provides 10+ website templates that can be
+  used when creating a new website.
+version: 1.0.0
+license: Apache License, Version 2.0 (templates may have different licenses)
+homepage: http://github.com/gettalong/webgen-templates-bundle
+autoload: true

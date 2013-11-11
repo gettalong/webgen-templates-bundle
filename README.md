@@ -7,7 +7,7 @@ By using a website template you don't need to do all the work of
 creating a main template and the needed CSS styles at the beginning. If
 you want to change anything later, it is easy to do!
 
-[webgen]: http://webgen.rubyforge.org
+[webgen]: http://webgen.gettalong.org
 
 
 # List of included templates
